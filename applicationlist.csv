@@ -1,0 +1,6 @@
+appName,appID,appSource
+"Google Chrome",Google.Chrome,winget
+"Google Drive",Google.GoogleDrive,winget
+"Steam",Valve.Steam,winget
+"Adobe Acrobat",Adobe.Acrobat.Reader.64-bit,winget
+"Microsoft Office",Microsoft.Office,winget
